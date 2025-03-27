@@ -2,10 +2,10 @@
 
 Beskrivelse Dette El-teknik hjemmesiden, hejemmesiden er bygget med Html, Css og javascript.
 
-Installation For at køre dette projekt lokalt, skal du følge disse trin: git clone https://github.com/arein1989/BojeElTeknik/ 
+Installation For at køre dette projekt lokalt, skal du følge disse trin: git clone https://github.com/arein1989/Boje-El-teknik/ 
 
 Naviger til mappen: 
-cd YaMe09/BojeElTeknik/ Clone repository npm install npm run dev
+cd YaMe09/Boje-El-teknik/ Clone repository npm install npm run dev
 
 Brug Når du åbner hjemmesiden, kan du navigere rundt på hjemmesiden enten ved at bruge navigationen. Her er en oversigt over, hvad du kan finde:
 
